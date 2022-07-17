@@ -41,6 +41,9 @@ class Main {
         for (String shopping:list) {
             System.out.println(shopping);
         }
+        for (String shopping:list) {
+            System.out.println(shopping);
+        }
 
     }
 }
